@@ -1,0 +1,10 @@
+
+# Screenshots and capture renders stay local (keep the repo small)
+**/screenshots/**/*.png
+**/screenshots/**/*.jpg
+**/screenshots/**/*.jpeg
+**/screenshots/**/*.webp
+**/shots/
+Screenshot*.png
+Screen Shot*.png
+스크린샷*.png
